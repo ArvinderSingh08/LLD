@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmazonLLD/AmazonLLD.iml" filepath="$PROJECT_DIR$/AmazonLLD/AmazonLLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CampaignManagementSystem/CampaignManagementSystem.iml" filepath="$PROJECT_DIR$/CampaignManagementSystem/CampaignManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrickBuzz/CrickBuzz.iml" filepath="$PROJECT_DIR$/CrickBuzz/CrickBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderManagementSystem/OrderManagementSystem.iml" filepath="$PROJECT_DIR$/OrderManagementSystem/OrderManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeLLD.iml" filepath="$PROJECT_DIR$/PracticeLLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RateLimiter/RateLimiter.iml" filepath="$PROJECT_DIR$/RateLimiter/RateLimiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RideSharing/RideSharing.iml" filepath="$PROJECT_DIR$/RideSharing/RideSharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Splitwise/Splitwise.iml" filepath="$PROJECT_DIR$/Splitwise/Splitwise.iml" />
+    </modules>
+  </component>
+</project>
